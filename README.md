@@ -5,7 +5,7 @@
 ## Objetivo
  El objetivo del proyecto es crear un herramienta para la unidad de compras de una empresa cualquiera. La herramienta envía un correo automático a los usuarios deseados en el momento en que un material del inventario alcanza el punto de pedido. 
  
- ![Evolucion_stock](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pdcahome.com%2F5613%2Fgestion-de-stocks-como-calcular-el-nivel-de-stock-de-un-producto-para-minimizar-los-gastos%2F&psig=AOvVaw2hCaNh0qcCSH-8OOzUwLOT&ust=1651859217250000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODw7aD1yPcCFQAAAAAdAAAAABAD)
+ ![Evolucion_stock](https://www.pdcahome.com/wp-content/uploads/2013/10/evolucion-stock.jpg)
  
  ## Bases de datos utilizadas
  Para llevar a cabo el proyecto se han utilizado ficheros anonimizados de una empresa real. Estos ficheros son:
