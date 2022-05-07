@@ -10,8 +10,8 @@
  ## Bases de datos utilizadas
  Para llevar a cabo el proyecto se han utilizado ficheros anonimizados de una empresa real. Estos ficheros son:
 
- * **Fichero de de movimientos de existencias**: Son 3 fiheros compuestos con los movimientos de entrada y salida de mercancías para los años 2017, 2018 y 2019
- * **Fichero de stock actual**: Este fihero indica las existencias reales ha día de hoy por material.
+ * **Fichero de de movimientos de existencias**: Son 3 ficheros compuestos por los movimientos de entrada y salida de mercancías para los años 2017, 2018 y 2019
+ * **Fichero de stock actual**: Este fichero indica las existencias reales a día de hoy por material.
  * **Fichero Maestro de materiales**: En este fichero se indica el stock de seguridad y los lead times por material.
  * **Fichero ltyss**: Fichero generado tras los cálculos y la limpieza con los datos de stock de seguridad y lead times medios por materia prima
  * **Fichero de consumos actuales**: Fichero generado que contiene el consumo diario calculado.
